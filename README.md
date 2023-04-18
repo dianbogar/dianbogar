@@ -4,7 +4,7 @@
 - Nama              : Dian Nastasia Bogar
 - Alamat            : Kampung Talengen
 - Tempat, Tgl Lahir : Talengen, 17 Juni 2002
-- Jenis Kelamain    : Perempuan
+- Jenis Kelamin     : Perempuan
 - Agama             : Kristen Protestan
 - Status            : Lajang
 - Email             : dianbogar6@gmail.com
