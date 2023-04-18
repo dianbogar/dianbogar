@@ -1,16 +1,20 @@
-### Hi there 👋
+# CV Dian
++
+## Tentang Saya
+- Nama              : Dian Nastasia Bogar
+- Alamat            : Kampung Talengen
+- Tempat, Tgl Lahir : Talengen, 17 Juni 2002
+- Jenis Kelamain    : Perempuan
+- Agama             : Kristen Protestan
+- Status            : Lajang
+- Email             : dianbogar6@gmail.com
+- Nomor Telepon     : +62812256*****
 
-<!--
-**dianbogar/dianbogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Pendidikan:
 
-Here are some ideas to get you started:
+### 1. [Politeknik Negeri Nusa Utara] | Sistem Informasi | Manganitu "2021-Sekarang"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2. [SMA N 1 Tabukan Tengah] | MIPA | Kuma "2017-2020"
+
+<br />
+<br />
